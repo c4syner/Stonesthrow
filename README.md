@@ -1,5 +1,5 @@
 # Stonesthrow
-A rudimentary peer-to-peer API for sending slow data between devices.
+A rudimentary simulated peer-to-peer API for sending slow data between devices.
 
 ## Installation
 ```bash
